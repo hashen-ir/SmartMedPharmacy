@@ -300,6 +300,18 @@ namespace SmartMedPharmacy.Models
                 cmd.Parameters.AddWithValue("@MedicineID", medicineId);
                 cmd.Parameters.AddWithValue("@Quantity", quantity);
 
+                string stockQuery = @"SELECT Stock FROM Medicine WHERE MedicineID = @MedicineID";
+
+                SqlCommand stockCmd = new SqlCommand(stockQuery, con);
+                stockCmd.Parameters.AddWithValue("@MedicineID", medicineId);
+
+                int stock = Convert.ToInt32(stockCmd.ExecuteScalar());
+
+                if (stock < quantity)
+                {
+                    throw new Exception("Not enough stock available.");
+                }
+
                 cmd.ExecuteNonQuery();
             }
         }

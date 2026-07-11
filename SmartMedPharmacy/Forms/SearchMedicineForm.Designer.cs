@@ -113,7 +113,7 @@
             // cmbCategory
             // 
             cmbCategory.FormattingEnabled = true;
-            cmbCategory.Items.AddRange(new object[] { "Painkiller", "Antibiotic", "Vitamin", "Syrup", "Tablet" });
+            cmbCategory.Items.AddRange(new object[] { "Painkiller", "Antibiotic", "Vitamin", "Syrup", "Tablet", "Allergy", "Diabetes" });
             cmbCategory.Location = new Point(299, 117);
             cmbCategory.Name = "cmbCategory";
             cmbCategory.Size = new Size(270, 28);
