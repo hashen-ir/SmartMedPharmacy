@@ -156,6 +156,7 @@ namespace SmartMedPharmacy
         {
             dgvMedicines.AutoGenerateColumns = true;
             dgvMedicines.DataSource = new Medicine().GetMedicinesForOrder();
+            HighlightExpiredMedicines();
         }
 
         private void btnBack_Click(object sender, EventArgs e)
@@ -246,6 +247,24 @@ namespace SmartMedPharmacy
             decimal total = customer.GetCartTotal(Session.CustomerID);
 
             lblTotalAmount.Text = "Total : Rs. " + total.ToString("N2");
+        }
+
+        private void HighlightExpiredMedicines()
+        {
+            foreach (DataGridViewRow row in dgvMedicines.Rows)
+            {
+                if (row.IsNewRow) continue;
+
+                DateTime expiryDate = Convert.ToDateTime(row.Cells["ExpiryDate"].Value);
+
+                if (expiryDate.Date <= DateTime.Today)
+                {
+                    row.DefaultCellStyle.BackColor = Color.LightPink;
+                    row.DefaultCellStyle.ForeColor = Color.Red;
+                    row.DefaultCellStyle.Font =
+                        new Font(dgvMedicines.Font, FontStyle.Bold);
+                }
+            }
         }
     }
 }
