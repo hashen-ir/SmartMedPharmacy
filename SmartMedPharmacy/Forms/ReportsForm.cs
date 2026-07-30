@@ -229,6 +229,11 @@ namespace SmartMedPharmacy
 
             lblTotalSales.Text = "Total Sales : Rs. " + totalSales.ToString("N2");
         }
+
+        private void dgvReports_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 
 }
