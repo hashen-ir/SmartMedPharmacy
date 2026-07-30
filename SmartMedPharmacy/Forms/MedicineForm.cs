@@ -58,6 +58,8 @@ namespace SmartMedPharmacy
 
             dgvMedicine.DataSource =
                 medicine.GetMedicines();
+
+            HighlightExpiredMedicines();
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -205,6 +207,25 @@ namespace SmartMedPharmacy
             txtFinalPrice.Clear();
             txtSupplier.Clear();
             dtpExpiry.Value = DateTime.Now;
+        }
+
+
+        private void HighlightExpiredMedicines()
+        {
+            foreach (DataGridViewRow row in dgvMedicine.Rows)
+            {
+                if (row.IsNewRow) continue;
+
+                DateTime expiryDate = Convert.ToDateTime(row.Cells["ExpiryDate"].Value);
+
+                if (expiryDate.Date <= DateTime.Today)
+                {
+                    row.DefaultCellStyle.BackColor = Color.LightPink;
+                    row.DefaultCellStyle.ForeColor = Color.Red;
+                    row.DefaultCellStyle.Font =
+                        new Font(dgvMedicine.Font, FontStyle.Bold);
+                }
+            }
         }
     }
 }
