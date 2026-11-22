@@ -49,6 +49,7 @@
             Controls.Add(btnTest);
             Name = "Test";
             Text = "Test";
+            Load += Test_Load;
             ResumeLayout(false);
         }
 

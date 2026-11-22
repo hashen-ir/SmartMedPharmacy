@@ -78,3 +78,4 @@ C:\Users\HASHEN\Documents\Activity\SmartMedPharmacy\SmartMedPharmacy\bin\Debug\n
 C:\Users\HASHEN\Documents\Activity\SmartMedPharmacy\SmartMedPharmacy\bin\Debug\net10.0-windows\System.Management.dll
 C:\Users\HASHEN\Documents\Activity\SmartMedPharmacy\SmartMedPharmacy\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\HASHEN\Documents\Activity\SmartMedPharmacy\SmartMedPharmacy\obj\Debug\net10.0-windows\SmartMedPharmacy.Forms.InvoiceForm.resources
+C:\Users\HASHEN\Documents\Activity\SmartMedPharmacy\SmartMedPharmacy\obj\Debug\net10.0-windows\SmartMedPharmacy.sourcelink.json

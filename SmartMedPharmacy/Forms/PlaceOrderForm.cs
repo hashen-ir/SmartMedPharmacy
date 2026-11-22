@@ -101,7 +101,7 @@ namespace SmartMedPharmacy
 
                 Order order = new Order();
 
-                // 3. Place order for EACH cart item
+                
                 foreach (DataRow item in cartItems.Rows)
                 {
                     order.PlaceOrder(
@@ -112,11 +112,11 @@ namespace SmartMedPharmacy
                     );
                 }
 
-                // 4. Clear cart after successful order
+                
                 customer.ClearCart(Session.CustomerID);
 
                 MessageBox.Show("Order Placed Successfully");
-                LoadCart(); // refresh grid
+                LoadCart(); 
                 LoadCartItems();
             }
             catch (Exception ex)
@@ -196,9 +196,9 @@ namespace SmartMedPharmacy
 
                 MessageBox.Show("Added to Cart");
 
-                LoadCart();        // refresh cart grid
+                LoadCart();        
                 LoadCartTotal();
-                LoadCartItems();  // refresh cart items
+                LoadCartItems();  
             }
             catch (Exception ex)
             {
@@ -222,7 +222,7 @@ namespace SmartMedPharmacy
 
                     MessageBox.Show("Cart Cleared");
 
-                    LoadCart(); // refresh grid
+                    LoadCart(); 
                     LoadCartTotal(); LoadCartItems();
                 }
             }

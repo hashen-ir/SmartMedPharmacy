@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMedPharmacy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e97257c83f641b8b6869ad0d6260bbf0dd35b0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef934e431f31ee6f684f037169b3abe0bdc5dc03")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMedPharmacy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMedPharmacy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

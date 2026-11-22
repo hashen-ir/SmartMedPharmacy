@@ -39,5 +39,10 @@ namespace SmartMedPharmacy
                 MessageBox.Show("ERROR: " + ex.Message);
             }
         }
+
+        private void Test_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

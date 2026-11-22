@@ -15,7 +15,7 @@ namespace SmartMedPharmacy.Models
         public decimal Price { get; set; }
         public int Stock { get; set; }
 
-        public DataTable GetMedicines() // Retrieve all medicines from the database
+        public DataTable GetMedicines() 
         {
             DBConnection db = new DBConnection();
 
@@ -46,7 +46,7 @@ namespace SmartMedPharmacy.Models
             }
         }
 
-        public DataTable GetMediciness() // Retrieve all medicines from the database
+        public DataTable GetMediciness() 
         {
             DBConnection db = new DBConnection();
 
@@ -76,7 +76,7 @@ namespace SmartMedPharmacy.Models
             }
         }
 
-        public void AddMedicine( // Add a new medicine to the database
+        public void AddMedicine( 
                 string name,
                 string category,
                 string dosage,
@@ -116,7 +116,7 @@ namespace SmartMedPharmacy.Models
                string name,
                string category,
                string dosage,
-               string supplier,   // ← extra parameter
+               string supplier,   
                decimal price,
                int stock,
                decimal discount,

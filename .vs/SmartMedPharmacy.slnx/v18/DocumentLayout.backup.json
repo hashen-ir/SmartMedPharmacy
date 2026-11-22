@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\forms\\medicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\medicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,36 +11,12 @@
       "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\medicineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\smartmedpharmacy\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\smartmedpharmacy\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\forms\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\smartmedpharmacy\\forms\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\smartmedpharmacy\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|c:\\users\\hashen\\documents\\activity\\smartmedpharmacy\\smartmedpharmacy\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\smartmedpharmacy\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43A5805-369B-40B0-4C88-21D0BB2359EE}|SmartMedPharmacy\\SmartMedPharmacy.csproj|solutionrelative:smartmedpharmacy\\forms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,145 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\OrderForm.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\OrderForm.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\OrderForm.cs [Design]",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\OrderForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T05:07:21.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MedicineForm.cs",
               "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\MedicineForm.cs",
               "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\MedicineForm.cs",
               "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\MedicineForm.cs",
               "RelativeToolTip": "SmartMedPharmacy\\Forms\\MedicineForm.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAEAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T05:02:59.16Z",
+              "WhenOpened": "2026-08-01T10:39:47.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Models\\Customer.cs",
-              "RelativeToolTip": "SmartMedPharmacy\\Models\\Customer.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAwwHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:44:53.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Medicine.cs",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Models\\Medicine.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Models\\Medicine.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Models\\Medicine.cs",
-              "RelativeToolTip": "SmartMedPharmacy\\Models\\Medicine.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAkwLIAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:30:56.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\AdminDashboard.cs [Design]",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\AdminDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:28:55.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MedicineForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\MedicineForm.cs",
               "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\MedicineForm.cs",
               "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\MedicineForm.cs [Design]",
               "RelativeToolTip": "SmartMedPharmacy\\Forms\\MedicineForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T17:01:36.507Z"
+              "WhenOpened": "2026-08-01T10:39:42.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlaceOrderForm.cs",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswLsAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "RelativeToolTip": "SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:43:57.244Z",
+              "WhenOpened": "2026-08-01T10:38:45.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\AdminDashboard.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAUwNMAAAASAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "SmartMedPharmacy\\Forms\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:29:14.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlaceOrderForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\PlaceOrderForm.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\PlaceOrderForm.cs [Design]",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\PlaceOrderForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T13:43:54.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InvoiceForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\InvoiceForm.cs [Design]",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\InvoiceForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T13:07:30.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InvoiceForm.cs",
-              "DocumentMoniker": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "RelativeDocumentMoniker": "SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "ToolTip": "C:\\Users\\HASHEN\\Documents\\Activity\\SmartMedPharmacy\\SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "RelativeToolTip": "SmartMedPharmacy\\Forms\\InvoiceForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T13:15:03.044Z"
+              "WhenOpened": "2026-08-01T10:38:39.698Z"
             }
           ]
         }
